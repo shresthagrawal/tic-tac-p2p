@@ -4,7 +4,8 @@
   "description": "Tic Tac Toe built over libp2p",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js",
+    "start:bootstrap": "node main.js --bootstrap"
   },
   "author": "shresthagrawal.31@gmail.com",
   "contributors": [],
