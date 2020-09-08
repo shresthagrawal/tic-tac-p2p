@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 const TicTacToe = require('./game')
 const createLibp2pNode = require('./libp2p')
 
